@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -eu -o pipefail
+
+debian() {
+    sudo apt-get install build-essential libgtk2.0-dev
+}
+
+debian

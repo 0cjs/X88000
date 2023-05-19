@@ -17,6 +17,16 @@ Information about the source code (in Japanese) can be found in
 [`src/X88000Src.txt`](src/X88000Src.txt).
 
 
+Building and Running
+---------------------
+
+The `setup` script will install the packages needed to build this. (This
+works only on Debian-based systems at the moment.)
+
+    ./setup
+    (cd src/ && make -j8)
+    src/X88000
+
 
 <!-------------------------------------------------------------------->
 [x88home]: https://quagma.sakura.ne.jp/manuke/x88000.html
