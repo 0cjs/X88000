@@ -7,7 +7,7 @@ X80000 NEC PC-8001 Emulator
                  --Home Page
 
 
-This is the X80000 NEC PC-8001 emulator (Linux version) source code. More
+This is the X88000 NEC PC-8001 emulator (Linux version) source code. More
 information can be found on the [home page][x88home]. The sources were
 downloaded from the [source code page][x88src] and extracted on the
 `vendor` branch under the `src/` directory (the tar file's `x88_1_5_3_src/`
